@@ -1,0 +1,9 @@
+
+
+--- Calculation Date: 2024-11-24 15:32 ---                
+  - Your CPU: Inetl                 
+  - You Found:                 
+      - Prime Numbers: 3112                
+      - Fibonnaci Numbers: 3109                
+  - Highest Prime Number: 28597                
+  - Calculation Time: 10.0 [s]
