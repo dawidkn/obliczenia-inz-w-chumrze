@@ -205,7 +205,7 @@ class MainWindow:
         self.reset_button = tk.Button(self.button_frame, text="Reset", command=self.reset_calculations)
         self.reset_button.pack(side="left", padx=5)
 
-        self.standard_test_button = tk.Button(self.button_frame, text="Standard Test", command=self.standard_test,width=14)
+        self.standard_test_button = tk.Button(self.button_frame, text=f"Standard Test {self.calc_time} s", command=self.standard_test,width=14)
         self.standard_test_button.pack(side="left", padx=5)
 
 
